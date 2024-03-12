@@ -4,8 +4,6 @@
 
 Hi, here is the code implement for the paper "Accelerating Dynamic Network Embedding with Billions of Parameter Updates to Milliseconds" accepted by **KDD2023** .
 
-[Setup](##Setup)
-
 <div align=center title="Overview"> 
   <img src="framework.jpg" alt="I1" width="597" height="307">
 </div>

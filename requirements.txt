@@ -1,0 +1,5 @@
+cmake
+scipy
+networkx
+tqdm
+h5py
